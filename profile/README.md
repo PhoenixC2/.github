@@ -1,5 +1,5 @@
 # PhoenixC2
-<img src="phoenixc2.png" />
+<img src="../phoenixc2.png" />
 
 This is the offical organization account of [Scream2k](https://github.com/screamz2k/)'s PhoenixC2 Framework.
 
